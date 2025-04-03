@@ -1,349 +1,398 @@
 @media (max-width: 1200px) {
 			
-		.header__nav a {
-			font-size: 14px;
-		}
-		.startp {
-		font-size: 14px;
-		}
-		.home {
-			font-size: 3rem;
-		}
-		.logoh2 {
-			margin-bottom: auto;
-		}
-		.text {
-			font-size: 14px;
-		}
-		.text__icon {
-			font-size: 14px;
-			line-height: 1;
-		}
-		.morb {
-			font-size: 14px;
-		}
-		
-		
-	}
+    .header__nav a {
+        font-size: 14px;
+    }
+    .startp {
+    font-size: 14px;
+    }
+
+    .home {
+        font-size: 3rem;
+    }
+    .text {
+        font-size: 14px;
+    }
+    .text__icon {
+        font-size: 14px;
+        line-height: 1;
+    }
+    .morb {
+        font-size: 14px;
+    }
+    
+    
+}
 
 @media (max-width: 992px) {
-		.powe {
-			line-height: 1.5;
-		}
-	
-		.Our_firm {
-			font-size: 1rem;
-		}
-		.header__nav a {
-			font-size: 13px;
-		}
-		.container  {
-			display: flex;
-			align-items:center;
-			width: 100vw;
-		
-		}
-		.ll a{
-			font-size: 11px;
-		}
-		
-		.header__nav li+li{
-			margin-left: 14px;
-		}
-		.startp {
-		font-size: 14px;
-		}
-		.home {
-			line-height: 1.5;
-			font-size: 2rem;
-		}
-		.logoh2 {
-			margin-bottom: auto;
-		}
-		.text {
-			font-size: 12px;
-		}
-		.text__icon {
-			font-size: 13px;
-			line-height: 1;
-		}
-		.morb {
-			font-size: 13px;
-		}
-		.cards__wrapper {
-			width: 90vw;
-		}
-		.we {
-			font-size: 2rem;
-		}
-		.reeding {
-		font-size: 14px;
-		}
-		.lest__reeding{
-		font-size: 14px;
-		}
-		.vint__reeding {
-			width: 200px;
-		}
-		.sol {
-			border-width: 9px;
-			font-size: 0.7rem;
-		}
-		.info__conteiner {
-			width: 100vw;
-	}
-	.logo {
+    .welcome {
+height: 70vh ;
+    }
+    .background-container {
+height:  70vh;
+    }
+    .section_2 {
+        height:  50vh;
+    }
+    .powe {
+        line-height: 1.5;
+    }
 
-		margin-left: 32px;
-		}
+    .Our_firm {
+        font-size: 1rem;
+    }
+    .our {
+        margin-top: 10%;
+    }
+    .header__nav a {
+        font-size: 13px;
+    }
+    .container  {
+        display: flex;
+        align-items:center;
+        width: 100vw;
+    
+    }
+    .lest {
+height: 70vh;
+    }
+    .house {
+height: 70vh;
+    }
+    .vint {
+        height: 70vh;
+    }
+    .ll a{
+        font-size: 11px;
+    }
+    
+    .header__nav li+li{
+        margin-left: 14px;
+    }
+    .startp {
+    font-size: 14px;
+    }
+    .home {
+        line-height: 1.5;
+        font-size: 2rem;
+    }
+    .text {
+        font-size: 12px;
+    }
+    .text__icon {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    .about {
+        align-content: normal;
+        height: 50vh;
+    
+    }
+    .morb {
+        font-size: 13px;
+    }
+    .cards__wrapper {
+        width: 90vw;
+    }
+    .we {
+        font-size: 2rem;
+    }
+    .reeding {
+    font-size: 14px;
+    }
+    .lest__reeding{
+    font-size: 14px;
+    }
+    .vint__reeding {
+        width: 200px;
+    }
+    .sol {
+        border-width: 9px;
+        font-size: 0.7rem;
+    }
+    .info__conteiner {
+        width: 100vw;
+        height: 50vh;
+}
+.logo {
+
+    margin-left: 32px;
+    }
 }
 
 @media (max-width: 768px) {
 .logoh2 {
-	font-size: 13px;
-	letter-spacing: 1px;
+font-size: 13px;
+letter-spacing: 1px;
 }
 .header__nav {
-	padding: 16px;
+padding: 16px;
 }
-		.logo {
-		font-size: 0.7rem;
-		margin-left: 16px;
-		}
-		.nelogo {
-		font-size: 0.7rem;
-	}
-	.ll {
-		color: rgb(255, 255, 255);
-		transition: color 0.2s;
-		border: solid #000;
-	border-width: 8px 16px;
-	background-color: #000;
-	border-radius: 14px;
-	font-weight: 400;
-	letter-spacing: 0.2px;
-	}
-	.header__nav a {
-		font-size: 9px;
-	}
-	.container {
-		padding: 0 4px;
-		margin: 0 auto;
-	}
-	
-	
+    .logo {
+    font-size: 0.7rem;
+    margin-left: 16px;
+    }
+    .nelogo {
+    font-size: 0.7rem;
+}
+.ll {
+    color: rgb(255, 255, 255);
+    transition: color 0.2s;
+    border: solid #000;
+border-width: 8px 16px;
+background-color: #000;
+border-radius: 14px;
+font-weight: 400;
+letter-spacing: 0.2px;
+}
+.header__nav a {
+    font-size: 9px;
+}
+.container {
+    padding: 0 4px;
+    margin: 0 auto;
+}
 
-	.text {
-		font-size: 11px;
-	}
-	.img {
-		height: 4rem;
-		width: 4rem;
-	}
-	.name {
+
+
+.text {
+    font-size: 11px;
+}
+.img {
+    height: 4rem;
+    width: 4rem;
+}
+.name {
 font-size: 15px;
-	}
-	.two {
+}
+.two {
 font-size: 14px;
-	}
+}
 
-	.we {
-		font-size: 1.5rem;
-	}
-	.meseng {
-		margin-right: 1rem;
-		height: 1rem;
-		width: 1rem;
-	}
-	.home {
-	font-size: 1.5rem;
-	letter-spacing: 0;
-	}
+.we {
+    font-size: 1.5rem;
+}
+.meseng {
+    margin-right: 1rem;
+    height: 1rem;
+    width: 1rem;
+}
+.home {
+font-size: 1.5rem;
+letter-spacing: 0;
+}
 .startp{
-	width: 30vw;
+width: 30vw;
 }
 .cards__wrapper {
-	width: 100vw;
-	justify-items: none;
-			text-align:none;
-			display: flex;
+width: 100vw;
+justify-items: none;
+        text-align:none;
+        display: flex;
 }
 .text__icon {
-	font-size: 12px;
+font-size: 12px;
 }
 .cards {
-	margin-left: 25px;
-    margin-right: 25px;
+margin-left: 25px;
+margin-right: 25px;
 }
 .title__about {
-	font-size: 2rem;
+font-size: 2rem;
 }
 .reeding {
-	padding-left: 15px;
-	width: 145px;
-	font-size: 12px;
-	letter-spacing: 0.1px;
-	margin-bottom: 12px;
-	margin-right: 10px;
+padding-left: 15px;
+width: 145px;
+font-size: 12px;
+letter-spacing: 0.1px;
+margin-bottom: 12px;
+margin-right: 10px;
 }
 .lest__reeding {
-	width: 110px;
+width: 110px;
 }
 .custom {
 font-size: 30px;
 }
 .morb {
-	width: 175px;
+width: 175px;
 }
 .prior {
-	width: 300px;
+width: 300px;
 }
 .vint__reeding {
-	color: #1a1919;
+color: #1a1919;
 }
 .view {
-	font-size: 13px;
-	margin-top: 20px;
+font-size: 13px;
+margin-top: 20px;
 }
 .big {
-	font-size: 18px;
+font-size: 18px;
 }
 .new {
-	font-size: 14px;
+font-size: 14px;
 }
 .sol {
-	border-width: 6px;
-        font-size: 0.6rem;
+border-width: 6px;
+    font-size: 0.6rem;
 }
 .vsefoto {
-	width: 85vw;
+width: 85vw;
 }
 .name {
-font-size: 12px;
+font-size: 10px;
 width: 80px;
 }
 .two {
 font-size: 10px;
 width: 100px;
 }
+.comanda {
+    height: 50vh;
+
+}
+.team {
+    position: absolute;
+    top: 45%;
+}
 .prepod {
-	width: 4rem;
-	height:4rem ;
-	border: solid 2px;
-	margin-right: 3px;
-	border-color: rgba(206, 196, 188, 1);
+width: 3.5rem;
+height:3.5rem ;
+border: solid 1.5px;
+margin-right: 3px;
+border-color: rgba(206, 196, 188, 1);
+}
+.senior {
+    font-size: 10px;
+width: 80px;
 }
 .meet__team {
-	font-size: 1.5rem;
+font-size: 1.5rem;
 }
 }
 @media (max-width: 480px) {
-	.header__nav {
-		padding: 2px;
-	}
-			.logo {
-			font-size: 6px;
-			margin-left: 2px;
-			}
-			.nelogo {
-			font-size: 6px;
-		}
-		.ll {
-		border-width: 2px 6px;
-		background-color: #000;
-		border-radius: 14px;
-		}
-		.header__nav a {
-			font-size: 6px;
-		}
-		.startp {
-			font-size: 6px;
-		}
-		.logoh2 {
-			font-size: 7px;
-			letter-spacing: 0.3px;
-			margin-bottom: 10px;
+    .welcome {
+        height: 30vh ;
+            }
+            .background-container {
+        height:  30vh;
+            }
+            .section_2 {
+                height:  25vh;
+            }
+            .info__conteiner {
+                width: 100vw;
+                height: 25vh;
+            }
+        
+.header__nav {
+    padding: 2px;
+    
+}
+.header__nav ul {
+    display: flex;
+    align-items:normal;
+}
+        .logo {
+        font-size: 6px;
+        margin-left: 2px;
+        }
+        .nelogo {
+        font-size: 6px;
+    }
+    .ll {
+    border-width: 2px 6px;
+    background-color: #000;
+    border-radius: 14px;
+    }
+    .header__nav a {
+        font-size: 6px;
+    }
+    .startp {
+        font-size: 6px;
+    }
+    .logoh2 {
+        font-size: 7px;
+        letter-spacing: 0.3px;
+        margin-bottom: 10px;
 }
 .home {
 font-size: 14px;
 }
 .read {
-	font-size: 7px;
+font-size: 7px;
 }
 .Our_firm {
-	font-size: 10px;
+font-size: 10px;
 }
 .text {
-	font-size: 6px;
+font-size: 6px;
 }
 .img {
-	width: 42px;
-	height: 42px;
-	border: solid 1px;
+width: 42px;
+height: 42px;
+border: solid 1px;
 }
 .lud {
-	grid-template-columns: 3rem 20px;
-}
-.info__conteiner {
-	margin-top: 1%;
-	margin-left: 1%;
+grid-template-columns: 3rem 20px;
 }
 .name {
 font-size: 8px;
 }
 .senior {
-	font-size: 7px;
+font-size: 7px;
 }
 .reeding {
-	
+
 font-size: 8px;
 padding: 0;
 }
 .house__reeding {
-	font-size: 10px;
+font-size: 10px;
 }
 .our {
-	font-size: 8px;
-	margin-top: 8px;
+font-size: 8px;
+margin-top: 8px;
 }
 .title__about {
-	font-size: 20px;
+font-size: 20px;
 }
 img {
-	width: 15px;
-	height: 15px;
+width: 15px;
+height: 15px;
 }
 .cards__wrapper {
-	width: 300px;
+width: 300px;
 }
 .title__icon {
 font-size: 10px;
 }
 .text__icon {
-	font-size: 7px;
+font-size: 7px;
 }
 .lest__reeding {
-	
-	font-size: 8px;
-	line-height: 1;
-	width: 100px;
+
+font-size: 8px;
+line-height: 1;
+width: 100px;
 }
 .custom {
-	font-size: 15px;
+font-size: 15px;
 }
 .morb {
-	font-size: 8px;
+font-size: 8px;
 }
 .prior {
-	font-size: 13px;
+font-size: 13px;
 }
 .hill {
-	width: 120px;
-	height:90px ;
+width: 120px;
+height:90px ;
 }
 .vint__reeding {
-	font-size: 7px;
-	width: 100px;
+font-size: 7px;
+width: 100px;
 }
 .red {
 font-size: 12px;
@@ -355,84 +404,137 @@ font-size: 8px;
 font-size: 8px;
 }
 .new {
-	font-size: 6px;
+font-size: 6px;
 }
 .sol {
-	font-size: 5px;
+font-size: 5px;
 }
 .view {
-	font-size: 7px;
+font-size: 7px;
 }
 .meet__team {
-	font-size: 13px;
+font-size: 13px;
 }
 .quis {
-	font-size: 8px;
+font-size: 8px;
 }
 .see {
-	font-size: 12px;
+font-size: 12px;
 }
 .prepod {
-	width: 32px;
-	height: 32px;
-	border: solid 1px;
-	border-color: rgba(206, 196, 188, 1);
+width: 32px;
+height: 32px;
+border: solid 1px;
+border-color: rgba(206, 196, 188, 1);
 }
 .card {
-	gap: 0px;
+gap: 0px;
 }
 .name {
-	font-size: 8px;
-	width: 60px;
-	}
-	.two {
-	font-size: 6px;
-	width: 80px;
+font-size: 8px;
+width: 60px;
+}
+.two {
+font-size: 6px;
+width: 80px;
 }
 .grid {
-	gap: 10px;
-	height: 5rem;
+gap: 10px;
+height: 5rem;
+}
+.for {
+    height: 25vh;
+}
+.comanda {
+    height: 30vh; 
+}
+.pravoe {
+    height: 25vh;
+}
+.getin {
+    height: 25vh;
+}
+.last {
+    height: 10vh;
 }
 .meet {
-	margin-left: 5%;
+margin-left: 5%;
 }
 .team {
-	right: 10px;
-	width: 200px;
+right: 10px;
+width: 200px;
 }
 .get {
 font-size: 8px;
-
+}
+.vsefoto {
+    height: 30vh;
+    width: 100vw;
+}
+.foto2 {
+    margin: 0 10px 0 10px;
+    height: 30vh;
+    width: 30vw;
+    background-size: cover;
+}
+.no {
+    height: 30vh;
+    width: 30vw;
+}
+.about {
+    height: 25vh;
+}
+.es {
+    height: 30vh;
+    width: 30vw;
+}
+.foto1 {
+    height: 30vh;
+    width: 30vw;
+}
+.foto3 {
+    height: 30vh;
+    width: 30vw;
+}
+.rad {
+    height: 40vh;
+}
+.vse {
+    height: 40vh;
+    width: 100vw;
 }
 .we {
-	margin-top: 5px;
-	font-size: 12px;
+margin-top: 5px;
+font-size: 12px;
 }
 .touch {
-	font-size: 8px;
+font-size: 8px;
 }
 .logo_2 {
 font-size: 8px;
 }
 .nelogo_2 {
-	font-size: 8px;
+font-size: 8px;
 }
 .powe {
-	font-size: 6px;
-	width: 150px;
+font-size: 6px;
+width: 150px;
 }
 .meseng {
-	width: 10px;
-	height: 10px;
+width: 10px;
+height: 10px;
 }
-.header__nav {
-	display: flex;
-	align-content: center;
-}
-.header__nav ul {
-	display: flex;
-	align-items: center;
-}
+
+
+.lest {
+    height: 40vh;
+        }
+        .house {
+    height: 40vh;
+        }
+        .vint {
+            height: 40vh;
+        }
 
 }
 
