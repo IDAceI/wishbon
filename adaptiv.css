@@ -88,6 +88,9 @@ height: 70vh;
         height: 50vh;
     
     }
+    .header__conteiner {
+        height: 45px;
+    }
     .morb {
         font-size: 13px;
     }
@@ -161,6 +164,9 @@ letter-spacing: 0.2px;
 .img {
     height: 4rem;
     width: 4rem;
+}
+.header__conteiner {
+    height: 45px;
 }
 .name {
 font-size: 15px;
@@ -279,11 +285,11 @@ font-size: 1.5rem;
         height:  30vh;
             }
             .section_2 {
-                height:  25vh;
+                height:  50vh;
             }
             .info__conteiner {
                 width: 100vw;
-                height: 25vh;
+                height: 45vh;
             }
         
 .header__nav {
@@ -315,10 +321,15 @@ font-size: 1.5rem;
     .logoh2 {
         font-size: 7px;
         letter-spacing: 0.3px;
-        margin-bottom: 10px;
+        margin-bottom: 2px;
 }
 .home {
+    line-height: 1;
 font-size: 14px;
+margin-bottom: 2px;
+}
+.header__conteiner {
+    height: 45px;
 }
 .read {
 font-size: 7px;
@@ -362,9 +373,6 @@ img {
 width: 15px;
 height: 15px;
 }
-.cards__wrapper {
-width: 300px;
-}
 .title__icon {
 font-size: 10px;
 }
@@ -395,6 +403,7 @@ font-size: 7px;
 width: 100px;
 }
 .red {
+    margin-top: 5px;
 font-size: 12px;
 }
 .some {
@@ -455,7 +464,7 @@ height: 5rem;
     height: 25vh;
 }
 .last {
-    height: 10vh;
+    height: 20vh;
 }
 .meet {
 margin-left: 5%;
@@ -482,7 +491,7 @@ font-size: 8px;
     width: 30vw;
 }
 .about {
-    height: 25vh;
+    height: 40vh;
 }
 .es {
     height: 30vh;

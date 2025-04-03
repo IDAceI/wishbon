@@ -30,18 +30,16 @@ body {
 	
 	.logo {
 		color: rgba(27, 26, 26, 1);
-	
 		font-weight: 17px;
 	
 	}
 	.nelogo {
 		color: rgba(27, 26, 26, 1);
-	
 		font-weight: bold;
+		margin-right: auto;
 	
 	}
 	.header__nav {
-	margin-left: auto;
 	padding-inline: 32px;
 	}
 	
